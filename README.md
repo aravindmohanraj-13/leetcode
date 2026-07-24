@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/aravindmohanraj-13/leetcode/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/aravindmohanraj-13/leetcode/tree/master/0205-isomorphic-strings) |
 | [0383-ransom-note](https://github.com/aravindmohanraj-13/leetcode/tree/master/0383-ransom-note) |
 | [0443-string-compression](https://github.com/aravindmohanraj-13/leetcode/tree/master/0443-string-compression) |
@@ -30,5 +31,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/aravindmohanraj-13/leetcode/tree/master/0125-valid-palindrome) |
 | [0443-string-compression](https://github.com/aravindmohanraj-13/leetcode/tree/master/0443-string-compression) |
 <!---LeetCode Topics End-->
