@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/aravindmohanraj-13/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0881-boats-to-save-people](https://github.com/aravindmohanraj-13/leetcode/tree/master/0881-boats-to-save-people) |
 | [0890-find-and-replace-pattern](https://github.com/aravindmohanraj-13/leetcode/tree/master/0890-find-and-replace-pattern) |
+| [0905-sort-array-by-parity](https://github.com/aravindmohanraj-13/leetcode/tree/master/0905-sort-array-by-parity) |
 ## Hash Table
 |  |
 | ------- |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/aravindmohanraj-13/leetcode/tree/master/0443-string-compression) |
 | [0680-valid-palindrome-ii](https://github.com/aravindmohanraj-13/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0881-boats-to-save-people](https://github.com/aravindmohanraj-13/leetcode/tree/master/0881-boats-to-save-people) |
+| [0905-sort-array-by-parity](https://github.com/aravindmohanraj-13/leetcode/tree/master/0905-sort-array-by-parity) |
 ## Greedy
 |  |
 | ------- |
@@ -55,4 +57,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/aravindmohanraj-13/leetcode/tree/master/0088-merge-sorted-array) |
 | [0881-boats-to-save-people](https://github.com/aravindmohanraj-13/leetcode/tree/master/0881-boats-to-save-people) |
+| [0905-sort-array-by-parity](https://github.com/aravindmohanraj-13/leetcode/tree/master/0905-sort-array-by-parity) |
 <!---LeetCode Topics End-->
