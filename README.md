@@ -12,12 +12,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/aravindmohanraj-13/leetcode/tree/master/0001-two-sum) |
 | [0383-ransom-note](https://github.com/aravindmohanraj-13/leetcode/tree/master/0383-ransom-note) |
+| [0771-jewels-and-stones](https://github.com/aravindmohanraj-13/leetcode/tree/master/0771-jewels-and-stones) |
 | [0890-find-and-replace-pattern](https://github.com/aravindmohanraj-13/leetcode/tree/master/0890-find-and-replace-pattern) |
 ## String
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/aravindmohanraj-13/leetcode/tree/master/0383-ransom-note) |
 | [0443-string-compression](https://github.com/aravindmohanraj-13/leetcode/tree/master/0443-string-compression) |
+| [0771-jewels-and-stones](https://github.com/aravindmohanraj-13/leetcode/tree/master/0771-jewels-and-stones) |
 | [0890-find-and-replace-pattern](https://github.com/aravindmohanraj-13/leetcode/tree/master/0890-find-and-replace-pattern) |
 ## Counting
 |  |
