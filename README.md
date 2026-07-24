@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/aravindmohanraj-13/leetcode/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/aravindmohanraj-13/leetcode/tree/master/0011-container-with-most-water) |
 | [0485-max-consecutive-ones](https://github.com/aravindmohanraj-13/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0890-find-and-replace-pattern](https://github.com/aravindmohanraj-13/leetcode/tree/master/0890-find-and-replace-pattern) |
 ## Hash Table
@@ -35,11 +36,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/aravindmohanraj-13/leetcode/tree/master/0011-container-with-most-water) |
 | [0125-valid-palindrome](https://github.com/aravindmohanraj-13/leetcode/tree/master/0125-valid-palindrome) |
 | [0443-string-compression](https://github.com/aravindmohanraj-13/leetcode/tree/master/0443-string-compression) |
 | [0680-valid-palindrome-ii](https://github.com/aravindmohanraj-13/leetcode/tree/master/0680-valid-palindrome-ii) |
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/aravindmohanraj-13/leetcode/tree/master/0011-container-with-most-water) |
 | [0680-valid-palindrome-ii](https://github.com/aravindmohanraj-13/leetcode/tree/master/0680-valid-palindrome-ii) |
 <!---LeetCode Topics End-->
