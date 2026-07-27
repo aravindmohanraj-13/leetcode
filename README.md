@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/aravindmohanraj-13/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0485-max-consecutive-ones](https://github.com/aravindmohanraj-13/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0643-maximum-average-subarray-i](https://github.com/aravindmohanraj-13/leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [0704-binary-search](https://github.com/aravindmohanraj-13/leetcode/tree/master/0704-binary-search) |
 | [0881-boats-to-save-people](https://github.com/aravindmohanraj-13/leetcode/tree/master/0881-boats-to-save-people) |
 | [0890-find-and-replace-pattern](https://github.com/aravindmohanraj-13/leetcode/tree/master/0890-find-and-replace-pattern) |
 | [0904-fruit-into-baskets](https://github.com/aravindmohanraj-13/leetcode/tree/master/0904-fruit-into-baskets) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/aravindmohanraj-13/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0209-minimum-size-subarray-sum](https://github.com/aravindmohanraj-13/leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0704-binary-search](https://github.com/aravindmohanraj-13/leetcode/tree/master/0704-binary-search) |
 ## Divide and Conquer
 |  |
 | ------- |
