@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/aravindmohanraj-13/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0881-boats-to-save-people](https://github.com/aravindmohanraj-13/leetcode/tree/master/0881-boats-to-save-people) |
 | [0890-find-and-replace-pattern](https://github.com/aravindmohanraj-13/leetcode/tree/master/0890-find-and-replace-pattern) |
+| [0904-fruit-into-baskets](https://github.com/aravindmohanraj-13/leetcode/tree/master/0904-fruit-into-baskets) |
 | [0905-sort-array-by-parity](https://github.com/aravindmohanraj-13/leetcode/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/aravindmohanraj-13/leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [0948-bag-of-tokens](https://github.com/aravindmohanraj-13/leetcode/tree/master/0948-bag-of-tokens) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/aravindmohanraj-13/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0771-jewels-and-stones](https://github.com/aravindmohanraj-13/leetcode/tree/master/0771-jewels-and-stones) |
 | [0890-find-and-replace-pattern](https://github.com/aravindmohanraj-13/leetcode/tree/master/0890-find-and-replace-pattern) |
+| [0904-fruit-into-baskets](https://github.com/aravindmohanraj-13/leetcode/tree/master/0904-fruit-into-baskets) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/aravindmohanraj-13/leetcode/tree/master/2287-rearrange-characters-to-make-target-string) |
 ## String
 |  |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/aravindmohanraj-13/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/aravindmohanraj-13/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0643-maximum-average-subarray-i](https://github.com/aravindmohanraj-13/leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [0904-fruit-into-baskets](https://github.com/aravindmohanraj-13/leetcode/tree/master/0904-fruit-into-baskets) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
