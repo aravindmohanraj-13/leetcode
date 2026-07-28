@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-find-and-replace-pattern](https://github.com/aravindmohanraj-13/leetcode/tree/master/0890-find-and-replace-pattern) |
 | [0904-fruit-into-baskets](https://github.com/aravindmohanraj-13/leetcode/tree/master/0904-fruit-into-baskets) |
 | [0905-sort-array-by-parity](https://github.com/aravindmohanraj-13/leetcode/tree/master/0905-sort-array-by-parity) |
+| [0918-maximum-sum-circular-subarray](https://github.com/aravindmohanraj-13/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0922-sort-array-by-parity-ii](https://github.com/aravindmohanraj-13/leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [0948-bag-of-tokens](https://github.com/aravindmohanraj-13/leetcode/tree/master/0948-bag-of-tokens) |
 | [1089-duplicate-zeros](https://github.com/aravindmohanraj-13/leetcode/tree/master/1089-duplicate-zeros) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/aravindmohanraj-13/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/aravindmohanraj-13/leetcode/tree/master/0053-maximum-subarray) |
+| [0918-maximum-sum-circular-subarray](https://github.com/aravindmohanraj-13/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 ## Sliding Window
 |  |
 | ------- |
@@ -118,4 +120,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/aravindmohanraj-13/leetcode/tree/master/0053-maximum-subarray) |
+| [0918-maximum-sum-circular-subarray](https://github.com/aravindmohanraj-13/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
+## Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/aravindmohanraj-13/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/aravindmohanraj-13/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->
