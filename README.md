@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/aravindmohanraj-13/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/aravindmohanraj-13/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0485-max-consecutive-ones](https://github.com/aravindmohanraj-13/leetcode/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/aravindmohanraj-13/leetcode/tree/master/0496-next-greater-element-i) |
 | [0643-maximum-average-subarray-i](https://github.com/aravindmohanraj-13/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/aravindmohanraj-13/leetcode/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/aravindmohanraj-13/leetcode/tree/master/0704-binary-search) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/aravindmohanraj-13/leetcode/tree/master/0205-isomorphic-strings) |
 | [0383-ransom-note](https://github.com/aravindmohanraj-13/leetcode/tree/master/0383-ransom-note) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/aravindmohanraj-13/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0496-next-greater-element-i](https://github.com/aravindmohanraj-13/leetcode/tree/master/0496-next-greater-element-i) |
 | [0771-jewels-and-stones](https://github.com/aravindmohanraj-13/leetcode/tree/master/0771-jewels-and-stones) |
 | [0890-find-and-replace-pattern](https://github.com/aravindmohanraj-13/leetcode/tree/master/0890-find-and-replace-pattern) |
 | [0904-fruit-into-baskets](https://github.com/aravindmohanraj-13/leetcode/tree/master/0904-fruit-into-baskets) |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/aravindmohanraj-13/leetcode/tree/master/0020-valid-parentheses) |
+| [0496-next-greater-element-i](https://github.com/aravindmohanraj-13/leetcode/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/aravindmohanraj-13/leetcode/tree/master/0682-baseball-game) |
 ## Math
 |  |
@@ -168,4 +171,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/aravindmohanraj-13/leetcode/tree/master/0682-baseball-game) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/aravindmohanraj-13/leetcode/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
