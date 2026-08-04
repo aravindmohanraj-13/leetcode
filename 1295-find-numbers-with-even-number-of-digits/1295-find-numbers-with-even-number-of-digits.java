@@ -12,7 +12,7 @@ class Solution {
             if(cnt % 2 == 0){
                 count++;
             }
-            cnt = 0;
+            // cnt = 0;
         }
         return count;
     }
