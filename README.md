@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/aravindmohanraj-13/leetcode/tree/master/0141-linked-list-cycle) |
 | [0344-reverse-string](https://github.com/aravindmohanraj-13/leetcode/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/aravindmohanraj-13/leetcode/tree/master/0443-string-compression) |
+| [0633-sum-of-square-numbers](https://github.com/aravindmohanraj-13/leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0680-valid-palindrome-ii](https://github.com/aravindmohanraj-13/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/aravindmohanraj-13/leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [0881-boats-to-save-people](https://github.com/aravindmohanraj-13/leetcode/tree/master/0881-boats-to-save-people) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/aravindmohanraj-13/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0162-find-peak-element](https://github.com/aravindmohanraj-13/leetcode/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/aravindmohanraj-13/leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0633-sum-of-square-numbers](https://github.com/aravindmohanraj-13/leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/aravindmohanraj-13/leetcode/tree/master/0704-binary-search) |
 ## Divide and Conquer
 |  |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/aravindmohanraj-13/leetcode/tree/master/0231-power-of-two) |
+| [0633-sum-of-square-numbers](https://github.com/aravindmohanraj-13/leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0877-stone-game](https://github.com/aravindmohanraj-13/leetcode/tree/master/0877-stone-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/aravindmohanraj-13/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/aravindmohanraj-13/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
