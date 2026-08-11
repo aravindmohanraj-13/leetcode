@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/aravindmohanraj-13/leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/aravindmohanraj-13/leetcode/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/aravindmohanraj-13/leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0278-first-bad-version](https://github.com/aravindmohanraj-13/leetcode/tree/master/0278-first-bad-version) |
 | [0633-sum-of-square-numbers](https://github.com/aravindmohanraj-13/leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/aravindmohanraj-13/leetcode/tree/master/0704-binary-search) |
 ## Divide and Conquer
@@ -240,4 +241,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1572-matrix-diagonal-sum](https://github.com/aravindmohanraj-13/leetcode/tree/master/1572-matrix-diagonal-sum) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/aravindmohanraj-13/leetcode/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
