@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/aravindmohanraj-13/leetcode/tree/master/1929-concatenation-of-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/aravindmohanraj-13/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/aravindmohanraj-13/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/aravindmohanraj-13/leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3731-find-missing-elements](https://github.com/aravindmohanraj-13/leetcode/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/aravindmohanraj-13/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/aravindmohanraj-13/leetcode/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/aravindmohanraj-13/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/aravindmohanraj-13/leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3731-find-missing-elements](https://github.com/aravindmohanraj-13/leetcode/tree/master/3731-find-missing-elements) |
 ## String
 |  |
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/aravindmohanraj-13/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/aravindmohanraj-13/leetcode/tree/master/1512-number-of-good-pairs) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/aravindmohanraj-13/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/aravindmohanraj-13/leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/aravindmohanraj-13/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Simulation
 |  |
