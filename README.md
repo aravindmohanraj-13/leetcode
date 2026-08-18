@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/aravindmohanraj-13/leetcode/tree/master/0011-container-with-most-water) |
 | [0033-search-in-rotated-sorted-array](https://github.com/aravindmohanraj-13/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/aravindmohanraj-13/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0051-n-queens](https://github.com/aravindmohanraj-13/leetcode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/aravindmohanraj-13/leetcode/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/aravindmohanraj-13/leetcode/tree/master/0088-merge-sorted-array) |
 | [0152-maximum-product-subarray](https://github.com/aravindmohanraj-13/leetcode/tree/master/0152-maximum-product-subarray) |
@@ -262,8 +263,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/aravindmohanraj-13/leetcode/tree/master/0022-generate-parentheses) |
+| [0051-n-queens](https://github.com/aravindmohanraj-13/leetcode/tree/master/0051-n-queens) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/aravindmohanraj-13/leetcode/tree/master/0022-generate-parentheses) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/aravindmohanraj-13/leetcode/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
