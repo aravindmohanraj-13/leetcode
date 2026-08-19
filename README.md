@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/aravindmohanraj-13/leetcode/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/aravindmohanraj-13/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/aravindmohanraj-13/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/aravindmohanraj-13/leetcode/tree/master/0042-trapping-rain-water) |
 | [0051-n-queens](https://github.com/aravindmohanraj-13/leetcode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/aravindmohanraj-13/leetcode/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/aravindmohanraj-13/leetcode/tree/master/0088-merge-sorted-array) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/aravindmohanraj-13/leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/aravindmohanraj-13/leetcode/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/aravindmohanraj-13/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0042-trapping-rain-water](https://github.com/aravindmohanraj-13/leetcode/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/aravindmohanraj-13/leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/aravindmohanraj-13/leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/aravindmohanraj-13/leetcode/tree/master/0141-linked-list-cycle) |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/aravindmohanraj-13/leetcode/tree/master/0022-generate-parentheses) |
+| [0042-trapping-rain-water](https://github.com/aravindmohanraj-13/leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/aravindmohanraj-13/leetcode/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/aravindmohanraj-13/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0877-stone-game](https://github.com/aravindmohanraj-13/leetcode/tree/master/0877-stone-game) |
@@ -204,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/aravindmohanraj-13/leetcode/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/aravindmohanraj-13/leetcode/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/aravindmohanraj-13/leetcode/tree/master/0071-simplify-path) |
 | [0496-next-greater-element-i](https://github.com/aravindmohanraj-13/leetcode/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/aravindmohanraj-13/leetcode/tree/master/0682-baseball-game) |
@@ -227,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/aravindmohanraj-13/leetcode/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/aravindmohanraj-13/leetcode/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/aravindmohanraj-13/leetcode/tree/master/0739-daily-temperatures) |
 ## Minimax
