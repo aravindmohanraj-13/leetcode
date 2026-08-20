@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/aravindmohanraj-13/leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [0948-bag-of-tokens](https://github.com/aravindmohanraj-13/leetcode/tree/master/0948-bag-of-tokens) |
 | [1089-duplicate-zeros](https://github.com/aravindmohanraj-13/leetcode/tree/master/1089-duplicate-zeros) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/aravindmohanraj-13/leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Greedy
 |  |
 | ------- |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/aravindmohanraj-13/leetcode/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/aravindmohanraj-13/leetcode/tree/master/0143-reorder-list) |
 | [0876-middle-of-the-linked-list](https://github.com/aravindmohanraj-13/leetcode/tree/master/0876-middle-of-the-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/aravindmohanraj-13/leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Stack
 |  |
 | ------- |
