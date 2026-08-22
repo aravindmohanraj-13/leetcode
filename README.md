@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/aravindmohanraj-13/leetcode/tree/master/0771-jewels-and-stones) |
 | [0890-find-and-replace-pattern](https://github.com/aravindmohanraj-13/leetcode/tree/master/0890-find-and-replace-pattern) |
 | [0904-fruit-into-baskets](https://github.com/aravindmohanraj-13/leetcode/tree/master/0904-fruit-into-baskets) |
+| [1172-dinner-plate-stacks](https://github.com/aravindmohanraj-13/leetcode/tree/master/1172-dinner-plate-stacks) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/aravindmohanraj-13/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1512-number-of-good-pairs](https://github.com/aravindmohanraj-13/leetcode/tree/master/1512-number-of-good-pairs) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/aravindmohanraj-13/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1172-dinner-plate-stacks](https://github.com/aravindmohanraj-13/leetcode/tree/master/1172-dinner-plate-stacks) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/aravindmohanraj-13/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Prefix Sum
 |  |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/aravindmohanraj-13/leetcode/tree/master/0303-range-sum-query-immutable) |
+| [1172-dinner-plate-stacks](https://github.com/aravindmohanraj-13/leetcode/tree/master/1172-dinner-plate-stacks) |
 ## Linked List
 |  |
 | ------- |
@@ -222,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/aravindmohanraj-13/leetcode/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/aravindmohanraj-13/leetcode/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/aravindmohanraj-13/leetcode/tree/master/0739-daily-temperatures) |
+| [1172-dinner-plate-stacks](https://github.com/aravindmohanraj-13/leetcode/tree/master/1172-dinner-plate-stacks) |
 ## Math
 |  |
 | ------- |
