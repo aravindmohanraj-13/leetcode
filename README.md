@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/aravindmohanraj-13/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
+| [0933-number-of-recent-calls](https://github.com/aravindmohanraj-13/leetcode/tree/master/0933-number-of-recent-calls) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/aravindmohanraj-13/leetcode/tree/master/0303-range-sum-query-immutable) |
+| [0933-number-of-recent-calls](https://github.com/aravindmohanraj-13/leetcode/tree/master/0933-number-of-recent-calls) |
 | [1172-dinner-plate-stacks](https://github.com/aravindmohanraj-13/leetcode/tree/master/1172-dinner-plate-stacks) |
 ## Linked List
 |  |
@@ -298,4 +300,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/aravindmohanraj-13/leetcode/tree/master/0051-n-queens) |
+## Data Stream
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/aravindmohanraj-13/leetcode/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
