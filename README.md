@@ -361,4 +361,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/aravindmohanraj-13/leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/aravindmohanraj-13/leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/aravindmohanraj-13/leetcode/tree/master/0938-range-sum-of-bst) |
+## Database
+|  |
+| ------- |
+| [0627-swap-sex-of-employees](https://github.com/aravindmohanraj-13/leetcode/tree/master/0627-swap-sex-of-employees) |
 <!---LeetCode Topics End-->
