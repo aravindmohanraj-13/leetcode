@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/aravindmohanraj-13/leetcode/tree/master/0496-next-greater-element-i) |
 | [0643-maximum-average-subarray-i](https://github.com/aravindmohanraj-13/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/aravindmohanraj-13/leetcode/tree/master/0682-baseball-game) |
+| [0695-max-area-of-island](https://github.com/aravindmohanraj-13/leetcode/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/aravindmohanraj-13/leetcode/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/aravindmohanraj-13/leetcode/tree/master/0739-daily-temperatures) |
 | [0877-stone-game](https://github.com/aravindmohanraj-13/leetcode/tree/master/0877-stone-game) |
@@ -288,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0695-max-area-of-island](https://github.com/aravindmohanraj-13/leetcode/tree/master/0695-max-area-of-island) |
 | [1572-matrix-diagonal-sum](https://github.com/aravindmohanraj-13/leetcode/tree/master/1572-matrix-diagonal-sum) |
 ## Interactive
 |  |
@@ -333,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/aravindmohanraj-13/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/aravindmohanraj-13/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/aravindmohanraj-13/leetcode/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/aravindmohanraj-13/leetcode/tree/master/0695-max-area-of-island) |
 | [0938-range-sum-of-bst](https://github.com/aravindmohanraj-13/leetcode/tree/master/0938-range-sum-of-bst) |
 ## Binary Tree
 |  |
@@ -356,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0112-path-sum](https://github.com/aravindmohanraj-13/leetcode/tree/master/0112-path-sum) |
 | [0547-number-of-provinces](https://github.com/aravindmohanraj-13/leetcode/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/aravindmohanraj-13/leetcode/tree/master/0695-max-area-of-island) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -371,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/aravindmohanraj-13/leetcode/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/aravindmohanraj-13/leetcode/tree/master/0695-max-area-of-island) |
 ## Graph Theory
 |  |
 | ------- |
