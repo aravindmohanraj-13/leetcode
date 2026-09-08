@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/aravindmohanraj-13/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/aravindmohanraj-13/leetcode/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/aravindmohanraj-13/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/aravindmohanraj-13/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/aravindmohanraj-13/leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/aravindmohanraj-13/leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/aravindmohanraj-13/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/aravindmohanraj-13/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/aravindmohanraj-13/leetcode/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/aravindmohanraj-13/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/aravindmohanraj-13/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Counting
 |  |
 | ------- |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/aravindmohanraj-13/leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/aravindmohanraj-13/leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/aravindmohanraj-13/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/aravindmohanraj-13/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
