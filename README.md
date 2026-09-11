@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/aravindmohanraj-13/leetcode/tree/master/0141-linked-list-cycle) |
 | [0205-isomorphic-strings](https://github.com/aravindmohanraj-13/leetcode/tree/master/0205-isomorphic-strings) |
 | [0383-ransom-note](https://github.com/aravindmohanraj-13/leetcode/tree/master/0383-ransom-note) |
+| [0389-find-the-difference](https://github.com/aravindmohanraj-13/leetcode/tree/master/0389-find-the-difference) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/aravindmohanraj-13/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/aravindmohanraj-13/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/aravindmohanraj-13/leetcode/tree/master/0496-next-greater-element-i) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/aravindmohanraj-13/leetcode/tree/master/0205-isomorphic-strings) |
 | [0344-reverse-string](https://github.com/aravindmohanraj-13/leetcode/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/aravindmohanraj-13/leetcode/tree/master/0383-ransom-note) |
+| [0389-find-the-difference](https://github.com/aravindmohanraj-13/leetcode/tree/master/0389-find-the-difference) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/aravindmohanraj-13/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/aravindmohanraj-13/leetcode/tree/master/0443-string-compression) |
 | [0680-valid-palindrome-ii](https://github.com/aravindmohanraj-13/leetcode/tree/master/0680-valid-palindrome-ii) |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/aravindmohanraj-13/leetcode/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/aravindmohanraj-13/leetcode/tree/master/0088-merge-sorted-array) |
+| [0389-find-the-difference](https://github.com/aravindmohanraj-13/leetcode/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/aravindmohanraj-13/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0881-boats-to-save-people](https://github.com/aravindmohanraj-13/leetcode/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/aravindmohanraj-13/leetcode/tree/master/0905-sort-array-by-parity) |
@@ -280,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/aravindmohanraj-13/leetcode/tree/master/0231-power-of-two) |
+| [0389-find-the-difference](https://github.com/aravindmohanraj-13/leetcode/tree/master/0389-find-the-difference) |
 ## Recursion
 |  |
 | ------- |
