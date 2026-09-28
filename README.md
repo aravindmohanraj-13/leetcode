@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/aravindmohanraj-13/leetcode/tree/master/0771-jewels-and-stones) |
 | [0890-find-and-replace-pattern](https://github.com/aravindmohanraj-13/leetcode/tree/master/0890-find-and-replace-pattern) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/aravindmohanraj-13/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/aravindmohanraj-13/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/aravindmohanraj-13/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/aravindmohanraj-13/leetcode/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/aravindmohanraj-13/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/aravindmohanraj-13/leetcode/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/aravindmohanraj-13/leetcode/tree/master/0739-daily-temperatures) |
 | [1172-dinner-plate-stacks](https://github.com/aravindmohanraj-13/leetcode/tree/master/1172-dinner-plate-stacks) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/aravindmohanraj-13/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Math
 |  |
 | ------- |
@@ -321,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/aravindmohanraj-13/leetcode/tree/master/0022-generate-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/aravindmohanraj-13/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Algorithm X
 |  |
 | ------- |
